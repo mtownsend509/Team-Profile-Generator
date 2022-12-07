@@ -25,7 +25,8 @@ Once all the prompts are answered an HTML page will be generated based off of th
 
 
 Website URL: https://mtownsend509.github.io/TeamProfile-Generator/
-Website Screenshot: 
+Usage Video: [Untitled_ Dec 6, 2022 11_04 PM.webm](https://user-images.githubusercontent.com/111660791/206111700-8c442f4b-aaa1-47d6-985b-937a028e6950.webm)
+
 
 
 ## Credits
